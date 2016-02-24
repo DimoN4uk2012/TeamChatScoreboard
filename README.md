@@ -1,7 +1,9 @@
 # TeamChatScoreboard
 Bukkit Plugin by DimoN
 
-Donwload Bukkit - http://dev.bukkit.org/bukkit-plugins/team-chat-scoreboard/
+Source code - open <b>/src</b>
+
+<b>Donwload Bukkit</b> - http://dev.bukkit.org/bukkit-plugins/team-chat-scoreboard/
 
 Curse - http://www.curse.com/bukkit-plugins/minecraft/team-chat-scoreboard/
 
