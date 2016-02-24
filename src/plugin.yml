@@ -1,0 +1,30 @@
+name: TeamChatScoreboard
+version: 1.8.8-1.0.1
+description: Team Chat to (Quartz Defenders)
+authors: [DimoN, antain]
+website: http://playcraft.com.ua
+
+main: playcraft.dimon.Main
+
+commands:
+    chat:
+        aliases: [чат,c,срфе]
+    team:
+        aliases: [t,еуфь,е]
+    global:
+        aliases: [g,пдщифд,п]
+        
+permissions:
+    teamchat.player.chat:
+        description: Can change chat
+        default: true
+    teamchat.player.delay:
+        description: No message delay
+        default: op
+    teamchat.admin.delay:
+        description: Set delay
+        default: op
+    teamchat.admin.reload:
+        description: Can reload plugin
+        default: op
+    

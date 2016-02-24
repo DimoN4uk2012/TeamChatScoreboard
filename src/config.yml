@@ -1,0 +1,29 @@
+#TeamChat Scoreboard - Plugin by DimoN § antain (Made in Ukraine)
+#http://playcraft.com.ua
+
+#Donwload new version: 
+#Colors: http://minecraft.gamepedia.com/Formatting_codes
+
+#Version Config File (Don't change)
+Version: 2
+
+#Name Scoreboard Objective [Vanilla] (Don't change)
+Scoreboard: "TeamChatPlugin"
+
+#Use color name in Chat (Team color [prefix]) true/false "Recomendet - true"
+Color: true
+
+#Chat Prefix and Sufix ("<PLAYER>" [Prefix - '<', Suxif - '>'])
+GlobalPrefix: "§7[§aG§7]§r "
+GlobalSufix: " §a➠§r "
+TeamPrefix: "§7[§9T§7]§r "
+TeamSufix: " §9➠§r "
+
+#Dalay to send next message on Global Chat (seconds) [set 0 -> off delay]
+Delay: 1
+#Message - ("Don't flood! Delay" 1s.)
+MessageDelay: "§7Don't flood! §8Delay "
+
+#Massage if you change Chat (/chat) 
+MessageGlobal: "§a§lGlobal Chat! §r§e/team §f§omessage §r- §9Send to team."
+MessageTeam: "§9§lTeam Chat! §r§e/global §f§omessage §r- §aSend to global."
